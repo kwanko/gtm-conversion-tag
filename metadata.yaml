@@ -16,5 +16,5 @@ homepage: "https://www.kwanko.com"
 documentation: "https://github.com/kwanko/gtm-conversion-tag"
 versions:
   # Latest version
-  - sha: XXX
+  - sha: a66668621d6899b92503de8cba8d9d8d3d2a826c
     changeNotes: Initial release of the universal Kwanko conversion tag for GTM.
