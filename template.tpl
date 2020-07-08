@@ -177,7 +177,7 @@ if (kwkFirePtag) {
     kwkArgs.ptag   = kwkFirePtag;
     log('KWKGTM debug - full args list before ptag =', kwkArgs);
     if (setInWindow('kwkgtm', kwkArgs, true)) {
-      injectScript('https://img.metaffiliation.com/na/na/res/trk/kwkgtm.js');
+      injectScript('https://img.metaffiliation.com/na/na/res/trk/kwkgtm.js', data.gtmOnSuccess, data.gtmOnFailure, 'kwkgtm');
     }
     else {
       log('KWKGTM debug - unable to inject kwkgtm.js for firing Ptag');
@@ -502,4 +502,4 @@ scenarios: []
 
 ___NOTES___
 
-Created on 30/04/2020 à 11:40:18
+Created on 08/07/2020 à 11:10:26

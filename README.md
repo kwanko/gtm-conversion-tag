@@ -18,9 +18,19 @@ For optimal tracking results, we recommend you first to install our uniJS librar
 
 In this documentation, you'll find the detailed steps to easily setup the Kwanko Universal Conversion Tag through GTM.
 
+### Search and add Kwanko template from the gallery
+
+The first step is to add the Kwanko Universal Conversion Tag template from the template gallery to your workspace.
+In the "templates" tab, click on "Search Gallery" button and search for "Kwanko Universal Conversion Tag" in the search bar.
+!["Search & import Kwanko Universal Conversion Tag from gallery"](assets/img/kwanko_gtm_conversion_gallery_search_detail.png "Search & import Kwanko Universal Conversion Tag from gallery")
+
+Follow the steps to add the template through the "Add to workspace" and "Add" button in the confirmation box.
+From there, the imported template will be displayed in you workspace with the "gallery" flag.
+!["Imported Kwanko conversion template"](assets/img/kwanko_gtm_conversion_tag_template_imported.png "Imported Kwanko conversion template")
+
 ### Create a new tag
 
-The first step is to create a new Tag in your GTM workspace :
+Next step is to create a new Tag in your GTM workspace :
 !["Creating new GTM Tag"](assets/img/kwango_gtm_conversion_newtag.png "Creating new GTM Tag")
 
 ### Tag configuration
