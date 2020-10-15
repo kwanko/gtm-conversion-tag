@@ -16,9 +16,11 @@ homepage: "https://www.kwanko.com"
 documentation: "https://github.com/kwanko/gtm-conversion-tag"
 versions:
   # Latest version
+  - sha: 1a04a5ac4dedecb36ed386a612127d683a5283b2
+    changeNotes: fix vouchercode arg processing
+  # Older versions
   - sha: 98464a65b6886e434d6b6e7b31a2b502c53f7d5c
     changeNotes: Update search gallery screenshot with more appropriate one & fix typo in template description
-  # Older versions
   - sha: a0b75cd2faa6b27316a021ff98840df84bd55a03
     changeNotes: template review feedback (missing expected gtm success & failure callback on injectScript API call)
   - sha: a66668621d6899b92503de8cba8d9d8d3d2a826c
