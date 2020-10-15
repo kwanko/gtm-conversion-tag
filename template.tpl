@@ -124,7 +124,7 @@ kwkArgs = {
   'argann'   : getType(data.eventid) === 'string' ? data.eventid : '',
   'nacur'    : getType(data.currency) === 'string' ? data.currency : '',
   'altid'    : getType(data.email) === 'string' ? data.email : '',
-  'argbr'    : getType(data.payname) === 'string' ? data.vouchercode : '',
+  'argbr'    : getType(data.vouchercode) === 'string' ? data.vouchercode : '',
   'argmodp'  : getType(data.payname) === 'string' ? data.payname : ''
 };
 
@@ -502,4 +502,4 @@ scenarios: []
 
 ___NOTES___
 
-Created on 08/07/2020 à 11:10:26
+Created on 15/10/2020 à 17:28:49
